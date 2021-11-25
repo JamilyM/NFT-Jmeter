@@ -1,0 +1,151 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1637779864978,1967,correios,200,OK,Grupo de Usuários 1-19,text,true,,109555,121,50,50,https://www.correios.com.br/,1100,0,917
+1637779864778,2167,correios,200,OK,Grupo de Usuários 1-2,text,true,,109555,121,50,50,https://www.correios.com.br/,1411,0,1117
+1637779864777,2168,correios,200,OK,Grupo de Usuários 1-5,text,true,,109558,121,50,50,https://www.correios.com.br/,1568,0,1098
+1637779864897,2049,correios,200,OK,Grupo de Usuários 1-15,text,true,,109555,121,50,50,https://www.correios.com.br/,1296,0,997
+1637779865656,1292,correios,200,OK,Grupo de Usuários 1-47,text,true,,109558,121,50,50,https://www.correios.com.br/,376,0,238
+1637779865059,1892,correios,200,OK,Grupo de Usuários 1-23,text,true,,109555,121,50,50,https://www.correios.com.br/,1107,0,834
+1637779865512,1441,correios,200,OK,Grupo de Usuários 1-45,text,true,,109558,121,50,50,https://www.correios.com.br/,737,0,382
+1637779865524,1429,correios,200,OK,Grupo de Usuários 1-44,text,true,,109555,121,50,50,https://www.correios.com.br/,491,0,360
+1637779864857,2097,correios,200,OK,Grupo de Usuários 1-13,text,true,,109555,121,50,50,https://www.correios.com.br/,1327,0,1041
+1637779865503,1453,correios,200,OK,Grupo de Usuários 1-42,text,true,,109558,121,50,50,https://www.correios.com.br/,509,0,376
+1637779865198,1759,correios,200,OK,Grupo de Usuários 1-30,text,true,,109555,121,50,50,https://www.correios.com.br/,797,0,683
+1637779865262,1695,correios,200,OK,Grupo de Usuários 1-33,text,true,,109555,121,50,50,https://www.correios.com.br/,803,0,634
+1637779865041,1917,correios,200,OK,Grupo de Usuários 1-22,text,true,,109555,121,50,50,https://www.correios.com.br/,1159,0,858
+1637779864797,2164,correios,200,OK,Grupo de Usuários 1-10,text,true,,109555,121,50,50,https://www.correios.com.br/,1187,0,1079
+1637779864879,2082,correios,200,OK,Grupo de Usuários 1-14,text,true,,109555,121,50,50,https://www.correios.com.br/,1146,0,1006
+1637779865158,1806,correios,200,OK,Grupo de Usuários 1-28,text,true,,109555,121,50,50,https://www.correios.com.br/,938,0,742
+1637779864778,2186,correios,200,OK,Grupo de Usuários 1-4,text,true,,109555,121,50,50,https://www.correios.com.br/,1192,0,1091
+1637779865803,1161,correios,200,OK,Grupo de Usuários 1-49,text,true,,109555,121,50,50,https://www.correios.com.br/,403,0,133
+1637779864777,2188,correios,200,OK,Grupo de Usuários 1-7,text,true,,109558,121,50,50,https://www.correios.com.br/,1348,0,1115
+1637779865801,1165,correios,200,OK,Grupo de Usuários 1-50,text,true,,109555,121,50,50,https://www.correios.com.br/,447,0,161
+1637779864837,2130,correios,200,OK,Grupo de Usuários 1-12,text,true,,109555,121,50,50,https://www.correios.com.br/,1374,0,1038
+1637779864777,2189,correios,200,OK,Grupo de Usuários 1-1,text,true,,109558,121,50,50,https://www.correios.com.br/,1207,0,1098
+1637779865499,1468,correios,200,OK,Grupo de Usuários 1-40,text,true,,109558,121,50,50,https://www.correios.com.br/,731,0,376
+1637779865522,1444,correios,200,OK,Grupo de Usuários 1-43,text,true,,109555,121,50,50,https://www.correios.com.br/,632,0,372
+1637779864917,2051,correios,200,OK,Grupo de Usuários 1-16,text,true,,109555,121,50,50,https://www.correios.com.br/,1170,0,978
+1637779865022,1947,correios,200,OK,Grupo de Usuários 1-21,text,true,,109558,121,50,50,https://www.correios.com.br/,1133,0,875
+1637779865297,1672,correios,200,OK,Grupo de Usuários 1-35,text,true,,109558,121,50,50,https://www.correios.com.br/,911,0,595
+1637779865396,1576,correios,200,OK,Grupo de Usuários 1-39,text,true,,109555,121,50,50,https://www.correios.com.br/,819,0,499
+1637779865180,1794,correios,200,OK,Grupo de Usuários 1-29,text,true,,109555,121,50,50,https://www.correios.com.br/,991,0,718
+1637779865339,1630,correios,200,OK,Grupo de Usuários 1-37,text,true,,109558,121,50,50,https://www.correios.com.br/,708,0,542
+1637779865120,1855,correios,200,OK,Grupo de Usuários 1-26,text,true,,109558,121,50,50,https://www.correios.com.br/,946,0,774
+1637779865098,1879,correios,200,OK,Grupo de Usuários 1-25,text,true,,109555,121,50,50,https://www.correios.com.br/,1079,0,801
+1637779864777,2200,correios,200,OK,Grupo de Usuários 1-3,text,true,,109555,121,50,50,https://www.correios.com.br/,1202,0,1102
+1637779865139,1838,correios,200,OK,Grupo de Usuários 1-27,text,true,,109555,121,50,50,https://www.correios.com.br/,1086,0,754
+1637779865001,1979,correios,200,OK,Grupo de Usuários 1-20,text,true,,109555,121,50,50,https://www.correios.com.br/,968,0,864
+1637779864938,2043,correios,200,OK,Grupo de Usuários 1-17,text,true,,109555,121,50,50,https://www.correios.com.br/,1066,0,942
+1637779865668,1275,correios,200,OK,Grupo de Usuários 1-46,text,true,,109555,121,50,50,https://www.correios.com.br/,316,0,198
+1637779865082,1862,correios,200,OK,Grupo de Usuários 1-24,text,true,,109558,121,50,50,https://www.correios.com.br/,903,0,793
+1637779865503,1440,correios,200,OK,Grupo de Usuários 1-41,text,true,,109555,121,50,50,https://www.correios.com.br/,863,0,477
+1637779864958,1985,correios,200,OK,Grupo de Usuários 1-18,text,true,,109555,121,50,50,https://www.correios.com.br/,1286,0,939
+1637779865218,1725,correios,200,OK,Grupo de Usuários 1-31,text,true,,109558,121,50,50,https://www.correios.com.br/,841,0,659
+1637779865326,1617,correios,200,OK,Grupo de Usuários 1-36,text,true,,109555,121,50,50,https://www.correios.com.br/,734,0,550
+1637779864778,2165,correios,200,OK,Grupo de Usuários 1-8,text,true,,109558,121,50,50,https://www.correios.com.br/,1216,0,1091
+1637779865278,1665,correios,200,OK,Grupo de Usuários 1-34,text,true,,109555,121,50,50,https://www.correios.com.br/,874,0,607
+1637779864778,2165,correios,200,OK,Grupo de Usuários 1-9,text,true,,109558,121,50,50,https://www.correios.com.br/,1366,0,1122
+1637779864778,2165,correios,200,OK,Grupo de Usuários 1-6,text,true,,109555,121,50,50,https://www.correios.com.br/,1287,0,1113
+1637779865382,1561,correios,200,OK,Grupo de Usuários 1-38,text,true,,109555,121,50,50,https://www.correios.com.br/,669,0,494
+1637779865654,1289,correios,200,OK,Grupo de Usuários 1-48,text,true,,109555,121,50,50,https://www.correios.com.br/,362,0,225
+1637779865238,1705,correios,200,OK,Grupo de Usuários 1-32,text,true,,109558,121,50,50,https://www.correios.com.br/,968,0,662
+1637779864815,2128,correios,200,OK,Grupo de Usuários 1-11,text,true,,109558,121,50,50,https://www.correios.com.br/,1244,0,1076
+1637779866965,350,google,200,OK,Grupo de Usuários 1-49,text,true,,15978,116,50,50,https://www.google.com/,348,0,186
+1637779866977,340,google,200,OK,Grupo de Usuários 1-26,text,true,,15946,116,50,50,https://www.google.com/,336,0,205
+1637779866974,349,google,200,OK,Grupo de Usuários 1-39,text,true,,15957,116,50,50,https://www.google.com/,343,0,219
+1637779866980,343,google,200,OK,Grupo de Usuários 1-25,text,true,,15996,116,50,50,https://www.google.com/,339,0,216
+1637779866971,365,google,200,OK,Grupo de Usuários 1-21,text,true,,15926,116,50,50,https://www.google.com/,355,0,230
+1637779866982,361,google,200,OK,Grupo de Usuários 1-46,text,true,,15958,116,50,50,https://www.google.com/,345,0,229
+1637779866979,364,google,200,OK,Grupo de Usuários 1-3,text,true,,15961,116,50,50,https://www.google.com/,349,0,229
+1637779866981,363,google,200,OK,Grupo de Usuários 1-20,text,true,,15949,116,50,50,https://www.google.com/,349,0,230
+1637779866975,376,google,200,OK,Grupo de Usuários 1-37,text,true,,15950,116,50,50,https://www.google.com/,369,0,239
+1637779867079,278,google,200,OK,Grupo de Usuários 1-36,text,true,,15948,116,50,50,https://www.google.com/,268,0,151
+1637779866954,408,google,200,OK,Grupo de Usuários 1-45,text,true,,15952,116,50,50,https://www.google.com/,398,0,198
+1637779866977,388,google,200,OK,Grupo de Usuários 1-29,text,true,,15934,116,50,50,https://www.google.com/,378,0,264
+1637779866982,387,google,200,OK,Grupo de Usuários 1-24,text,true,,15903,116,50,50,https://www.google.com/,378,0,198
+1637779867080,290,google,200,OK,Grupo de Usuários 1-8,text,true,,15916,116,50,50,https://www.google.com/,285,0,155
+1637779867090,281,google,200,OK,Grupo de Usuários 1-9,text,true,,15954,116,50,50,https://www.google.com/,273,0,155
+1637779867087,282,google,200,OK,Grupo de Usuários 1-34,text,true,,15954,116,50,50,https://www.google.com/,278,0,151
+1637779866982,390,google,200,OK,Grupo de Usuários 1-17,text,true,,15931,116,50,50,https://www.google.com/,376,0,248
+1637779866978,395,google,200,OK,Grupo de Usuários 1-27,text,true,,15940,116,50,50,https://www.google.com/,386,0,259
+1637779866973,400,google,200,OK,Grupo de Usuários 1-16,text,true,,15926,116,50,50,https://www.google.com/,390,0,205
+1637779866966,410,google,200,OK,Grupo de Usuários 1-7,text,true,,15888,116,50,50,https://www.google.com/,397,0,270
+1637779866970,416,google,200,OK,Grupo de Usuários 1-43,text,true,,15924,116,50,50,https://www.google.com/,407,0,292
+1637779867114,286,google,200,OK,Grupo de Usuários 1-6,text,true,,15950,116,50,50,https://www.google.com/,263,0,149
+1637779866969,439,google,200,OK,Grupo de Usuários 1-40,text,true,,15934,116,50,50,https://www.google.com/,421,0,294
+1637779867127,281,google,200,OK,Grupo de Usuários 1-48,text,true,,15941,116,50,50,https://www.google.com/,271,0,145
+1637779866947,462,google,200,OK,Grupo de Usuários 1-15,text,true,,15938,116,50,50,https://www.google.com/,439,0,302
+1637779867114,295,google,200,OK,Grupo de Usuários 1-41,text,true,,15951,116,50,50,https://www.google.com/,290,0,159
+1637779866959,453,google,200,OK,Grupo de Usuários 1-30,text,true,,15882,116,50,50,https://www.google.com/,451,0,321
+1637779866968,458,google,200,OK,Grupo de Usuários 1-1,text,true,,15938,116,50,50,https://www.google.com/,447,0,325
+1637779866960,468,google,200,OK,Grupo de Usuários 1-22,text,true,,15948,116,50,50,https://www.google.com/,452,0,319
+1637779866963,465,google,200,OK,Grupo de Usuários 1-14,text,true,,15913,116,50,50,https://www.google.com/,449,0,327
+1637779866947,484,google,200,OK,Grupo de Usuários 1-2,text,true,,15912,116,50,50,https://www.google.com/,467,0,340
+1637779867129,314,google,200,OK,Grupo de Usuários 1-32,text,true,,15939,116,50,50,https://www.google.com/,302,0,182
+1637779866966,479,google,200,OK,Grupo de Usuários 1-4,text,true,,15915,116,50,50,https://www.google.com/,477,0,340
+1637779866957,488,google,200,OK,Grupo de Usuários 1-42,text,true,,15938,116,50,50,https://www.google.com/,486,0,342
+1637779866947,498,google,200,OK,Grupo de Usuários 1-19,text,true,,15965,116,50,50,https://www.google.com/,494,0,362
+1637779867090,356,google,200,OK,Grupo de Usuários 1-18,text,true,,15851,116,50,50,https://www.google.com/,341,0,174
+1637779866947,499,google,200,OK,Grupo de Usuários 1-5,text,true,,15932,116,50,50,https://www.google.com/,469,0,341
+1637779866971,476,google,200,OK,Grupo de Usuários 1-12,text,true,,15961,116,50,50,https://www.google.com/,474,0,335
+1637779866962,485,google,200,OK,Grupo de Usuários 1-10,text,true,,15954,116,50,50,https://www.google.com/,467,0,332
+1637779866954,493,google,200,OK,Grupo de Usuários 1-44,text,true,,15886,116,50,50,https://www.google.com/,492,0,349
+1637779866950,497,google,200,OK,Grupo de Usuários 1-47,text,true,,15879,116,50,50,https://www.google.com/,496,0,364
+1637779866955,494,google,200,OK,Grupo de Usuários 1-13,text,true,,15953,116,50,50,https://www.google.com/,492,0,357
+1637779867129,322,google,200,OK,Grupo de Usuários 1-11,text,true,,15872,116,50,50,https://www.google.com/,320,0,181
+1637779866971,481,google,200,OK,Grupo de Usuários 1-35,text,true,,15946,116,50,50,https://www.google.com/,477,0,336
+1637779866966,490,google,200,OK,Grupo de Usuários 1-28,text,true,,15965,116,50,50,https://www.google.com/,488,0,346
+1637779866958,497,google,200,OK,Grupo de Usuários 1-33,text,true,,15959,116,50,50,https://www.google.com/,490,0,351
+1637779866967,499,google,200,OK,Grupo de Usuários 1-50,text,true,,15929,116,50,50,https://www.google.com/,480,0,339
+1637779867082,388,google,200,OK,Grupo de Usuários 1-31,text,true,,15942,116,50,50,https://www.google.com/,376,0,255
+1637779867274,256,google,200,OK,Grupo de Usuários 1-38,text,true,,15940,116,50,50,https://www.google.com/,255,0,113
+1637779866952,660,google,200,OK,Grupo de Usuários 1-23,text,true,,15942,116,50,50,https://www.google.com/,659,0,346
+1637779867324,687,Receita Federal,200,OK,Grupo de Usuários 1-25,text,true,,245467,132,50,50,https://www.gov.br/receitafederal/pt-br,281,0,210
+1637779867337,685,Receita Federal,200,OK,Grupo de Usuários 1-21,text,true,,245473,132,49,49,https://www.gov.br/receitafederal/pt-br,273,0,204
+1637779867317,777,Receita Federal,200,OK,Grupo de Usuários 1-49,text,true,,245472,132,48,48,https://www.gov.br/receitafederal/pt-br,291,0,218
+1637779867374,724,Receita Federal,200,OK,Grupo de Usuários 1-17,text,true,,245472,132,48,48,https://www.gov.br/receitafederal/pt-br,271,0,188
+1637779867324,860,Receita Federal,200,OK,Grupo de Usuários 1-39,text,true,,245472,132,46,46,https://www.gov.br/receitafederal/pt-br,319,0,222
+1637779867387,811,Receita Federal,200,OK,Grupo de Usuários 1-43,text,true,,245472,132,45,45,https://www.gov.br/receitafederal/pt-br,295,0,247
+1637779867346,909,Receita Federal,200,OK,Grupo de Usuários 1-20,text,true,,245467,132,44,44,https://www.gov.br/receitafederal/pt-br,300,0,210
+1637779867345,944,Receita Federal,200,OK,Grupo de Usuários 1-46,text,true,,245472,132,43,43,https://www.gov.br/receitafederal/pt-br,358,0,301
+1637779867372,931,Receita Federal,200,OK,Grupo de Usuários 1-34,text,true,,245472,132,42,42,https://www.gov.br/receitafederal/pt-br,282,0,222
+1637779867433,895,Receita Federal,200,OK,Grupo de Usuários 1-2,text,true,,245473,132,41,41,https://www.gov.br/receitafederal/pt-br,264,0,211
+1637779867448,923,Receita Federal,200,OK,Grupo de Usuários 1-47,text,true,,245472,132,40,40,https://www.gov.br/receitafederal/pt-br,269,0,218
+1637779867448,923,Receita Federal,200,OK,Grupo de Usuários 1-10,text,true,,245473,132,40,40,https://www.gov.br/receitafederal/pt-br,272,0,221
+1637779867532,857,Receita Federal,200,OK,Grupo de Usuários 1-38,text,true,,245472,132,38,38,https://www.gov.br/receitafederal/pt-br,255,0,183
+1637779867371,1020,Receita Federal,200,OK,Grupo de Usuários 1-8,text,true,,245473,132,38,38,https://www.gov.br/receitafederal/pt-br,344,0,279
+1637779867446,945,Receita Federal,200,OK,Grupo de Usuários 1-18,text,true,,245472,132,38,38,https://www.gov.br/receitafederal/pt-br,280,0,224
+1637779867412,979,Receita Federal,200,OK,Grupo de Usuários 1-48,text,true,,245473,132,38,38,https://www.gov.br/receitafederal/pt-br,288,0,236
+1637779867402,1001,Receita Federal,200,OK,Grupo de Usuários 1-6,text,true,,245473,132,34,34,https://www.gov.br/receitafederal/pt-br,369,0,298
+1637779867372,1062,Receita Federal,200,OK,Grupo de Usuários 1-9,text,true,,245473,132,33,33,https://www.gov.br/receitafederal/pt-br,282,0,221
+1637779867319,1121,Receita Federal,200,OK,Grupo de Usuários 1-26,text,true,,245472,132,33,33,https://www.gov.br/receitafederal/pt-br,327,0,243
+1637779867446,998,Receita Federal,200,OK,Grupo de Usuários 1-19,text,true,,245473,132,32,32,https://www.gov.br/receitafederal/pt-br,279,0,221
+1637779867371,1122,Receita Federal,200,OK,Grupo de Usuários 1-24,text,true,,245473,132,30,30,https://www.gov.br/receitafederal/pt-br,279,0,191
+1637779867446,1049,Receita Federal,200,OK,Grupo de Usuários 1-5,text,true,,245472,132,30,30,https://www.gov.br/receitafederal/pt-br,268,0,209
+1637779867374,1122,Receita Federal,200,OK,Grupo de Usuários 1-16,text,true,,245467,132,30,30,https://www.gov.br/receitafederal/pt-br,277,0,189
+1637779867363,1134,Receita Federal,200,OK,Grupo de Usuários 1-45,text,true,,245473,132,30,30,https://www.gov.br/receitafederal/pt-br,416,0,351
+1637779867444,1065,Receita Federal,200,OK,Grupo de Usuários 1-32,text,true,,245472,132,26,26,https://www.gov.br/receitafederal/pt-br,281,0,225
+1637779867447,1064,Receita Federal,200,OK,Grupo de Usuários 1-12,text,true,,245467,132,26,26,https://www.gov.br/receitafederal/pt-br,333,0,269
+1637779867409,1111,Receita Federal,200,OK,Grupo de Usuários 1-40,text,true,,245467,132,24,24,https://www.gov.br/receitafederal/pt-br,337,0,269
+1637779867359,1171,Receita Federal,200,OK,Grupo de Usuários 1-36,text,true,,245473,132,23,23,https://www.gov.br/receitafederal/pt-br,355,0,290
+1637779867377,1196,Receita Federal,200,OK,Grupo de Usuários 1-7,text,true,,245473,132,22,22,https://www.gov.br/receitafederal/pt-br,294,0,239
+1637779867446,1133,Receita Federal,200,OK,Grupo de Usuários 1-42,text,true,,245467,132,21,21,https://www.gov.br/receitafederal/pt-br,327,0,248
+1637779867467,1122,Receita Federal,200,OK,Grupo de Usuários 1-50,text,true,,245472,132,20,20,https://www.gov.br/receitafederal/pt-br,309,0,227
+1637779867454,1136,Receita Federal,200,OK,Grupo de Usuários 1-44,text,true,,245473,132,20,20,https://www.gov.br/receitafederal/pt-br,285,0,224
+1637779867344,1246,Receita Federal,200,OK,Grupo de Usuários 1-3,text,true,,245467,132,20,20,https://www.gov.br/receitafederal/pt-br,444,0,375
+1637779867452,1139,Receita Federal,200,OK,Grupo de Usuários 1-11,text,true,,245472,132,20,20,https://www.gov.br/receitafederal/pt-br,321,0,242
+1637779867374,1226,Receita Federal,200,OK,Grupo de Usuários 1-27,text,true,,245467,132,16,16,https://www.gov.br/receitafederal/pt-br,339,0,274
+1637779867441,1177,Receita Federal,200,OK,Grupo de Usuários 1-22,text,true,,245472,132,15,15,https://www.gov.br/receitafederal/pt-br,307,0,247
+1637779867457,1165,Receita Federal,200,OK,Grupo de Usuários 1-33,text,true,,245467,132,15,15,https://www.gov.br/receitafederal/pt-br,267,0,213
+1637779867453,1187,Receita Federal,200,OK,Grupo de Usuários 1-35,text,true,,245472,132,13,13,https://www.gov.br/receitafederal/pt-br,286,0,225
+1637779867427,1240,Receita Federal,200,OK,Grupo de Usuários 1-1,text,true,,245472,132,12,12,https://www.gov.br/receitafederal/pt-br,495,0,381
+1637779867449,1223,Receita Federal,200,OK,Grupo de Usuários 1-13,text,true,,245473,132,11,11,https://www.gov.br/receitafederal/pt-br,277,0,221
+1637779867430,1265,Receita Federal,200,OK,Grupo de Usuários 1-14,text,true,,245472,132,10,10,https://www.gov.br/receitafederal/pt-br,267,0,207
+1637779867414,1284,Receita Federal,200,OK,Grupo de Usuários 1-30,text,true,,245473,132,10,10,https://www.gov.br/receitafederal/pt-br,516,0,395
+1637779867366,1391,Receita Federal,200,OK,Grupo de Usuários 1-29,text,true,,245472,132,8,8,https://www.gov.br/receitafederal/pt-br,443,0,358
+1637779867471,1286,Receita Federal,200,OK,Grupo de Usuários 1-31,text,true,,245473,132,8,8,https://www.gov.br/receitafederal/pt-br,316,0,247
+1637779867410,1354,Receita Federal,200,OK,Grupo de Usuários 1-41,text,true,,245473,132,6,6,https://www.gov.br/receitafederal/pt-br,520,0,398
+1637779867613,1187,Receita Federal,200,OK,Grupo de Usuários 1-23,text,true,,245472,132,5,5,https://www.gov.br/receitafederal/pt-br,317,0,196
+1637779867453,1353,Receita Federal,200,OK,Grupo de Usuários 1-4,text,true,,245472,132,4,4,https://www.gov.br/receitafederal/pt-br,326,0,249
+1637779867353,1465,Receita Federal,200,OK,Grupo de Usuários 1-37,text,true,,245473,132,3,3,https://www.gov.br/receitafederal/pt-br,456,0,381
+1637779867410,1416,Receita Federal,200,OK,Grupo de Usuários 1-15,text,true,,245472,132,2,2,https://www.gov.br/receitafederal/pt-br,378,0,306
+1637779867457,1383,Receita Federal,200,OK,Grupo de Usuários 1-28,text,true,,245473,132,1,1,https://www.gov.br/receitafederal/pt-br,323,0,245
